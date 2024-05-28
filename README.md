@@ -1,4 +1,4 @@
-_Assembler Program_
+**Assembler Program**
 
 This program is designed to take assembly code as input and convert it into machine language code. It operates in a 3-step process:
 
